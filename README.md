@@ -1,4 +1,15 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+1. Короткий опис проекту:
+
+  2048 - захоплююча логічна гра, де гравець поєднує однакові числа, рухаючи плитки на ігровому полі. Мета полягає в досягненні плитки з числом 2048. Гра вимагає стратегії, уваги та вміння планувати кожен хід для досягнення найвищого результату.
+
+2. Технології, які були використані:
+  - HTML – HyperText Markup Language — мова розмітки гіпертекстових документів;
+  - CSS(та розширення SCSS)  – Cascading Style Sheets - каскадні таблиці стилів;
+  - JavaScript — мова програмування, яка дозволяє створювати динамічно оновлюваний контент, керувати мультимедіа, анімувати  зображення та робити багато іншого.
+  - Редактор вихідного коду Visual Studio Code.
+
+3. Посилання на попередній перегляд
+  [DEMO LINK](https://KolomietsN.github.io/game_2048/)
+
+4. Посилання на макет
+  [МАКЕТ](https://play2048.co/)
