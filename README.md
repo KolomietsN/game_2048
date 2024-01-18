@@ -1,15 +1,15 @@
-1. Короткий опис проекту:
+1. Brief description of the project:
 
-  2048 - захоплююча логічна гра, де гравець поєднує однакові числа, рухаючи плитки на ігровому полі. Мета полягає в досягненні плитки з числом 2048. Гра вимагає стратегії, уваги та вміння планувати кожен хід для досягнення найвищого результату.
+   2048 is an exciting puzzle game where the player matches the same numbers by moving the tiles on the playing field. The goal is to reach the tile with the number 2048. The game requires strategy, attention and the ability to plan each move to achieve the highest score.
 
-2. Технології, які були використані:
-  - HTML – HyperText Markup Language — мова розмітки гіпертекстових документів;
-  - CSS(та розширення SCSS)  – Cascading Style Sheets - каскадні таблиці стилів;
-  - JavaScript — мова програмування, яка дозволяє створювати динамічно оновлюваний контент, керувати мультимедіа, анімувати  зображення та робити багато іншого.
-  - Редактор вихідного коду Visual Studio Code.
+2. Technologies that were used:
+   - HTML – HyperText Markup Language — markup language for hypertext documents;
+   - CSS (and SCSS extensions) – Cascading Style Sheets - cascading style sheets;
+   - JavaScript is a programming language that allows you to create dynamically updated content, manage multimedia, animate images and do much more.
+   - Visual Studio Code source code editor.
 
-3. Посилання на попередній перегляд
-  [DEMO LINK](https://KolomietsN.github.io/game_2048/)
+3. Link to preview
+   [DEMO LINK](https://KolomietsN.github.io/game_2048/)
 
-4. Посилання на макет
-  [МАКЕТ](https://play2048.co/)
+4. Reference to the layout
+   [LAYOUT](https://play2048.co/)
